@@ -1,0 +1,14 @@
+https://azure.microsoft.com/en-in/services/logic-apps/
+
+https://azure.microsoft.com/en-in/blog/build-and-certify-your-powerapps-flow-logic-apps-and-connector/
+
+https://www.serverless360.com/azure-logic-apps
+
+https://www.serverless360.com/blog/azure-logic-apps-vs-microsoft-flow
+
+https://www.red-gate.com/simple-talk/cloud/cloud-development/introduction-azure-logic-apps/
+
+***https://support.muhimbi.com/hc/en-us/articles/115005900168-Microsoft-Flow-Power-Automate-Logic-Apps-PowerApps-Tutorials-and-Blog-posts
+
+http://www.integrationusergroup.com/logic-apps-powerapps-integrate-across-apis/
+
